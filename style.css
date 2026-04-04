@@ -54,7 +54,7 @@ a:hover { color: var(--accent); text-decoration: underline; }
 .header-inner {
   display: flex;
   gap: 32px;
-  align-items: flex-start;
+  align-items: center;
 }
 
 .avatar img {
