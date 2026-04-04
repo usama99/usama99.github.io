@@ -35,7 +35,7 @@ body {
   background: var(--bg);
   line-height: 1.72;
   -webkit-font-smoothing: antialiased;
-  font-size: 16.5px;
+  font-size: 17px;
 }
 
 a { color: var(--accent-hover); text-decoration: none; transition: color .15s; }
