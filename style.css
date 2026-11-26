@@ -65,17 +65,6 @@ a:hover { color: var(--accent); text-decoration: underline; }
   margin-top: 14px;
 }
 
-.avatar-links {
-  display: flex;
-  justify-content: center;
-  gap: 12px;
-  margin-top: 10px;
-}
-.avatar-links a {
-  font-size: 1.2rem;
-  text-decoration: none;
-}
-
 .header-body { flex: 1; }
 
 .header-body h1 {
