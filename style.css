@@ -59,7 +59,7 @@ a:hover { color: var(--accent); text-decoration: underline; }
 
 .avatar img {
   width: 170px;
-  height: 210px;
+  height: 170px;
   border-radius: 5px;
   object-fit: cover;
   margin-top: 14px;
